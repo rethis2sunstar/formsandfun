@@ -1,0 +1,13 @@
+* {
+  box-sizing: border-box;
+}
+
+header {
+  background-color: darkblue;
+  height: 20vh;
+  color: white;
+  font-size: 5em;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
